@@ -1,0 +1,10 @@
+************************* Instalação ***************************
+
+git clone https://github.com/LukzFtz/Teste-estagio-Front-end.git
+cd Teste-estagio-Front-end/
+npm install
+
+************************* Ativando servidor ***************************
+npm start
+
+O servidor abre no localhost:3000
