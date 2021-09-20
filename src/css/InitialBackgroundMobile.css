@@ -1,0 +1,162 @@
+.stMob0 {
+    fill: url(#fundoMob);
+}
+
+.stMob1 {
+    opacity: 0.37;
+    fill: #4A256F;
+}
+
+.stMob2 {
+    opacity: 0.59;
+}
+
+.stMob3 {
+    fill: #4D2B69;
+}
+
+.stMob4 {
+    fill: #591D57;
+}
+
+.stMob5 {
+    fill: #805087;
+}
+
+.stMob6 {
+    fill: #9B78A1;
+}
+
+.stMob7 {
+    fill: #E6E1E6;
+}
+
+.stMob8 {
+    fill: #B98CB3;
+}
+
+.stMob9 {
+    opacity: 0.32;
+    fill: #591D57;
+}
+
+.stMob10 {
+    fill: #512F66;
+}
+
+.stMob11 {
+    fill: #EEA67B;
+}
+
+.stMob12 {
+    fill: #F5B795;
+}
+
+.stMob13 {
+    fill: #444248;
+}
+
+.stMob14 {
+    fill: #FFFFFF;
+}
+
+.stMob15 {
+    fill: #EE9621;
+}
+
+.stMob16 {
+    opacity: 0.55;
+    fill: #49546D;
+}
+
+.stMob17 {
+    fill: #F9A72D;
+}
+
+.stMob18 {
+    opacity: 0.5;
+    fill: #CAA82C;
+}
+
+.stMob19 {
+    fill: #49546D;
+}
+
+.stMob20 {
+    font-family: 'MyriadPro-Regular';
+}
+
+.stMob21 {
+    font-size: 131.6238px;
+}
+
+.stMob22 {
+    fill: #C58A5B;
+}
+
+.stMob23 {
+    fill: #E4BD83;
+}
+
+.stMob24 {
+    fill: #EAD0B6;
+}
+
+.stMob25 {
+    fill: #F6EEE5;
+}
+
+.stMob26 {
+    fill-rule: evenodd;
+    clip-rule: evenodd;
+    fill: #FDD5B6;
+}
+
+.stMob27 {
+    fill-rule: evenodd;
+    clip-rule: evenodd;
+    fill: #F9A72D;
+}
+
+.stMob28 {
+    fill-rule: evenodd;
+    clip-rule: evenodd;
+    fill: #FFF2E8;
+}
+
+.stMob29 {
+    fill-rule: evenodd;
+    clip-rule: evenodd;
+    fill: #49546D;
+}
+
+.stMob30 {
+    fill-rule: evenodd;
+    clip-rule: evenodd;
+    fill: #808184;
+}
+
+.stMob31 {
+    fill-rule: evenodd;
+    clip-rule: evenodd;
+    fill: #000000;
+    opacity: .5;
+}
+
+#LayerMob{
+    enable-background:new 0 0 1225 2436;
+}
+
+#stopMob1{
+    stop-color:#783292
+}
+#stopMob2{
+    stop-color:#622C81
+}
+#stopMob3{
+    stop-color:#4A256F
+}
+
+#fundoMob{
+    fill:url(#fundoMob);
+}

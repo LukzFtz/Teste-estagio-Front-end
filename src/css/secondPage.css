@@ -1,0 +1,54 @@
+.positionAbsolute{
+    /* margin-top: 10vh; */
+    position: absolute;
+}
+.textInfo{
+    height: 50vh;
+}
+.titleTextXXL{
+    color: rgb(207, 116, 12);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 5vh;
+    font-size: 70px;
+    margin-top: 10vh;
+}
+.titleTextXL{
+    color: rgb(207, 116, 12);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 5vh;
+    font-size: 70px;
+    margin-top: 2vh;
+}
+.titleTextMOB{
+    color: rgb(207, 116, 12);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 1vh;
+    font-size: 40px;
+    margin-top: 2vh;
+}
+.functionsIcons{
+    margin-top: 20vh;
+    height: 40vh;
+}
+.functionsIconsXl{
+    margin-top: .3vh;
+    height: 40vh;
+}
+.functionsIconsMD{
+    margin-top: .3vh;
+    height: 40vh;
+}
+#secondPageMainDiv{
+    height: 1080;
+}
+#secondBackground{
+    transition: .5 ease-in-out;
+}
+
+#secondBackgroundMobile{
+    padding-top: 20vh;
+}
+
+#functionalitiesMobile{
+    margin-top: 40vh;
+}

@@ -1,0 +1,20 @@
+#divBackgroundLogo {
+    position: absolute;
+    width: 90vw;
+    overflow-x: hidden;
+
+  }
+#divBackgroundInfo {
+    position: absolute;
+    width: 100vw;
+    overflow-x: hidden;
+    height: 100vh;
+  }
+.mainPage{
+    width: 100vw;
+    overflow-x: hidden;
+}
+
+.spacingItens{
+  padding-top: 20vh;
+}

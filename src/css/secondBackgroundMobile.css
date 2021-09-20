@@ -1,0 +1,43 @@
+.stMobPg20 {
+    fill: #8449B7;
+    stroke: #8449B7;
+    stroke-miterlimit: 10;
+}
+
+.stMobPg21 {
+    fill-rule: evenodd;
+    clip-rule: evenodd;
+    fill: #FDD5B6;
+}
+
+.stMobPg22 {
+    fill-rule: evenodd;
+    clip-rule: evenodd;
+    fill: #FFFFFF;
+}
+
+.stMobPg23 {
+    fill-rule: evenodd;
+    clip-rule: evenodd;
+    fill: #FFF2E8;
+}
+
+.stMobPg24 {
+    fill-rule: evenodd;
+    clip-rule: evenodd;
+    fill: #49546D;
+}
+
+.stMobPg25 {
+    fill-rule: evenodd;
+    clip-rule: evenodd;
+    fill: #808184;
+}
+
+.stMobPg26 {
+    fill: #783292;
+}
+
+#LayerMobPage2{
+    enable-background:new 0 0 1125 2436;
+}
